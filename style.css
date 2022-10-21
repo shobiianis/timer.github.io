@@ -1,0 +1,61 @@
+.position{
+    margin-left: 30%;
+    margin-bottom: 10px;
+   
+}
+
+input{
+    width: 123px;
+    height: 41px;
+    border: 1px solid grey;
+    border-radius:3% ;
+}
+
+#main{
+    margin-top:-72px;
+    height: 98vh;
+    background: linear-gradient(90deg, rgba(104,93,255,1) 0%, #009eff 100%);
+}
+h1{
+    font-family: 'Acme', sans-serif;
+    margin-left: 23%;
+    font-size: 100px;
+    color: #ffd60a;
+
+}
+.middle{
+
+    margin-left: 30%;
+    font-size: 120px;
+    /* border: 1px solid black; */
+    width: 500px;
+
+}
+.click{
+    margin-left: 69%;
+    width: 129px;
+    height: 40px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}
+
+.middle_2{
+margin-left: 32%;
+font-size: 30px;
+}
+.mn{
+margin-left: 9%;
+}
+.sc{
+    margin-left: 5%;
+}
+
+#block{
+    margin-right:15% ;
+}
+
+.click2{
+    margin-left: 22%;
+    margin-top: 20px;
+}
